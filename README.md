@@ -33,7 +33,7 @@ Simple api
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alfiyansyahhh/Bot-Messenger
+   git clone hhttps://github.com/alfiyansyahhh/Fast8_Task4.git
    ```
 2. Install NPM packages
    ```sh
