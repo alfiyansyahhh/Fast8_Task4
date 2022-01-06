@@ -9,7 +9,7 @@ const dataModel = {
             resolve(response.data)
         } catch (err) {
             reject(err)
-        }   
+        } 
     }),
 }
 

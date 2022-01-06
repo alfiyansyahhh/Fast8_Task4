@@ -14,7 +14,7 @@ const dataController = {
             })
             success(res, result, 'Get Success');  
         }).catch((err) => {
-            failed(res, 404, err);
+            failed(res, 500, err);
         });
     },
 }
